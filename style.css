@@ -1,28 +1,12 @@
+#usuario_avatar {
+    width: 22rem
+}
+
 @font-face {
     font-family: Geo Sans;
     src: url('font/GeosansLight.ttf');
 }
 
-.container-fluid1 {
-    background-color: rgb(238, 230, 230);
-    align-items: center;
-    justify-content: center;
-    display: flex;
+* {
     font-family: Geo Sans;
-}
-
-.search-space {
-    width: 80%;
-    margin-top: 30px;
-    margin-left: 10%;
-}
-
-#search-text {
-    align-items: center;
-    font-family: Geo Sans;
-    
-}
-
-#search {
-    margin-top: 15px;
 }
